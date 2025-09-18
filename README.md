@@ -5,4 +5,4 @@
 
 
 ### Coming Soon
-We are preparing additional datasets and modules, which will be released in future updates.
+The key code and a demo dataset have been released. Due to cultural heritage protection policies, some parts of the dataset cannot be shared immediately. Certain datasets and implementation details are under preparation and will be made available in upcoming updates.
